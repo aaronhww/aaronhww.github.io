@@ -1,7 +1,7 @@
 
 # Aaron Hwee's Portfolio
 
-I am a computer science major at CSUF and plan on graduating in 2028. My Github profile is https://github.com/aaronhww.
+I am a computer science major at CSUF and plan on graduating in 2028. My Github profile is [aaronhww](https://github.com/aaronhww).
 
 ## Favorite CPSC 120L Labs
 
